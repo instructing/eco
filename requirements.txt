@@ -1,0 +1,8 @@
+asyncpg
+discord.py
+redis
+rich
+xxhash
+colorama
+lru_dict
+async_lru
