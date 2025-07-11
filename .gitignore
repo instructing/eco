@@ -1,2 +1,7 @@
 # ignore your real config
 config.py
+
+# ignore Python bytecode and caches
+__pycache__/
+*.py[cod]
+*.pyc
